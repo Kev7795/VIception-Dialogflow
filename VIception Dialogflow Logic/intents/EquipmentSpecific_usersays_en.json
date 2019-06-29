@@ -1,0 +1,106 @@
+[
+  {
+    "id": "9b6c78b0-1fe1-4c01-b3f0-9091559e5a48",
+    "data": [
+      {
+        "text": "Toaster",
+        "alias": "Equipment",
+        "meta": "@Equipment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee9e60ed-8d71-443c-9bdf-dfd6afb194df",
+    "data": [
+      {
+        "text": "Hair dryer",
+        "alias": "Equipment",
+        "meta": "@Equipment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d36c352-0e56-4e12-b669-af3aa5e5796e",
+    "data": [
+      {
+        "text": "Do you have a ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee machine",
+        "alias": "Equipment",
+        "meta": "@Equipment",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0210a0d-edc3-4149-b509-0b4a5606aa07",
+    "data": [
+      {
+        "text": "Is there a ",
+        "userDefined": false
+      },
+      {
+        "text": "Toaster",
+        "alias": "Equipment",
+        "meta": "@Equipment",
+        "userDefined": false
+      },
+      {
+        "text": " in my room?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13615154-d5cd-4b49-b7cc-12ff2373db97",
+    "data": [
+      {
+        "text": "Is my apartment equipped with a ",
+        "userDefined": false
+      },
+      {
+        "text": "Hair Dryer",
+        "alias": "Equipment",
+        "meta": "@Equipment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1aab17e3-479b-4ff9-813f-cfb365a12085",
+    "data": [
+      {
+        "text": "Coffee machine",
+        "alias": "Equipment",
+        "meta": "@Equipment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

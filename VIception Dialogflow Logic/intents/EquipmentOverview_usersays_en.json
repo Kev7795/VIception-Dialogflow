@@ -1,0 +1,62 @@
+[
+  {
+    "id": "9a496350-22be-4548-adfa-88f5573b417f",
+    "data": [
+      {
+        "text": "How is my apartment equipped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0503def9-668f-44e6-a305-4bb82b668a43",
+    "data": [
+      {
+        "text": "What equipment does the apartment have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d737c2ed-df5f-4e0e-998e-daa55d337b2b",
+    "data": [
+      {
+        "text": "Do you have a list of the equipment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e2c1084-2458-4325-a248-18df14f1e0d7",
+    "data": [
+      {
+        "text": "Can you give me an overview about the equipment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "054a2a40-7caf-48a5-9ac4-1b42a8de0271",
+    "data": [
+      {
+        "text": "Overview",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

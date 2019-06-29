@@ -1,0 +1,46 @@
+{
+  "id": "7fe60d98-ba09-463e-b0a4-be625c5e2fa1",
+  "name": "EquipmentInfo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "message": "Would you like to get an overview?\nIf not, just tell me what specific item you are looking for!",
+            "ignoreTextResponse": false,
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "6",
+              "payload": [
+                {
+                  "title": "Overview",
+                  "message": "Overview"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

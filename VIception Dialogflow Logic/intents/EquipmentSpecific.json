@@ -1,0 +1,30 @@
+{
+  "id": "39673da0-ac56-4285-81bd-519dcdc815e6",
+  "name": "EquipmentSpecific",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8bf6b2b1-626d-4390-b498-2073c5649516",
+          "required": true,
+          "dataType": "@Equipment",
+          "name": "Equipment",
+          "value": "$Equipment",
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1c550b96-9307-46d9-9fe0-a4aba502356a",
+    "data": [
+      {
+        "text": "What\u0027s the password for WiFi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "880af208-e1e5-4a4b-b196-3579696e93e4",
+    "data": [
+      {
+        "text": "What is the login data for the WiFi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9390d7fb-bc3c-4b0d-b5f4-583b1dbbe603",
+    "data": [
+      {
+        "text": "How can I get access to the internet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60a4ac29-a47e-4f8d-82f3-5a0f7ad3e972",
+    "data": [
+      {
+        "text": "Is there WiFi in my room?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2db8ca9-3141-43cc-9341-2f1b529cedf3",
+    "data": [
+      {
+        "text": "WiFi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

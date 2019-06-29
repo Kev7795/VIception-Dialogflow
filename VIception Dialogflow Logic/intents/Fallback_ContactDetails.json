@@ -1,0 +1,37 @@
+{
+  "id": "20344a9b-3785-4c02-8d0f-52ff35f78191",
+  "parentId": "6b61f3fe-57c2-444a-8c6e-3cd4603a1913",
+  "rootParentId": "6b61f3fe-57c2-444a-8c6e-3cd4603a1913",
+  "name": "Fallback_ContactDetails",
+  "auto": false,
+  "contexts": [
+    "DefaultFallbackIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultFallbackIntent.DefaultFallbackIntent-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sorry, I didn\u0027t get that.\nIn urgent cases, please contact my colleague on (+49) 089 1234 1234"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "08c69643-1a36-4fba-bc94-5e9ea780c7d1",
+    "data": [
+      {
+        "text": "What can I find in my apartment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebccd137-2e62-46fd-a1ae-3ad9131128a1",
+    "data": [
+      {
+        "text": "How is my apartment equipped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67e7f9d0-e160-4ae4-801e-9da4d09c3659",
+    "data": [
+      {
+        "text": "Can I get some information regarding the equipment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99379208-a049-4e70-a73c-f80ceede1b1f",
+    "data": [
+      {
+        "text": "Equipment Info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

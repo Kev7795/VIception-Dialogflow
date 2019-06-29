@@ -1,0 +1,23 @@
+[
+  {
+    "value": "Coffee machine",
+    "synonyms": [
+      "Coffee",
+      "Coffee machine"
+    ]
+  },
+  {
+    "value": "Hair dryer",
+    "synonyms": [
+      "Blower",
+      "Hair dryer",
+      "Hairdryer"
+    ]
+  },
+  {
+    "value": "Toaster",
+    "synonyms": [
+      "Toaster"
+    ]
+  }
+]

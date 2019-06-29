@@ -1,0 +1,64 @@
+{
+  "id": "8a604819-f164-4ce5-99f0-b5c894f0893d",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "message": "Hey, I am Vivian and I\u0027ll be your personal assistant.\n\nHow can I help you?",
+            "ignoreTextResponse": false,
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "6",
+              "payload": [
+                {
+                  "title": "Equipment Info",
+                  "message": "Equipment Info"
+                },
+                {
+                  "title": "WiFi",
+                  "message": "WiFi"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Hallo!",
+            "Guten Tag!",
+            "Ich grüße dich!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

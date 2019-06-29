@@ -1,0 +1,134 @@
+[
+  {
+    "id": "7083a979-7511-42ae-bda3-cc29b010596e",
+    "data": [
+      {
+        "text": "servus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5ac47dc6-ef8c-4301-9408-828e9911581b",
+    "data": [
+      {
+        "text": "guten tag",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "85787a74-2308-4f4b-834f-8bdc64ef108a",
+    "data": [
+      {
+        "text": "hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1af33c97-b466-4e82-ac01-58e06b07c328",
+    "data": [
+      {
+        "text": "ja hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "97bc3305-c77d-4721-89ed-1126ac6bcda9",
+    "data": [
+      {
+        "text": "ich grüße dich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0c4b6966-0899-4098-97d4-c2e56fc707ca",
+    "data": [
+      {
+        "text": "hallöchen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a47fde1e-4cf1-48ac-8a29-eeb6d9f3a8a8",
+    "data": [
+      {
+        "text": "hallo Schatzi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "34ce6a24-e5a2-4d88-a9a6-0fb39aebfc42",
+    "data": [
+      {
+        "text": "hallo Schatz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b35cd254-89ae-47e2-ac2f-c69143a9d279",
+    "data": [
+      {
+        "text": "hallo hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "bbbbdde4-4ddb-4f69-b4e4-d8c1a612ea13",
+    "data": [
+      {
+        "text": "hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4dd8f640-1f1d-4793-939d-7aec9c8942d9",
+    "data": [
+      {
+        "text": "grüß dich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]
